@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig(({ mode }) => ({
-  base: "/", // Required for Vercel
+  base: "/",
   build: {
     outDir: "dist",
     emptyOutDir: true
