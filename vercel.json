@@ -21,11 +21,14 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "backend/server.js"
+      "dest": "/backend/server.js"
     },
     {
       "src": "/(.*)",
-      "dest": "frontend/dist/$1"
+      "dest": "/frontend/dist/$1",
+      "headers": {
+        "Cache-Control": "s-maxage=31536000, immutable"
+      }
     }
   ]
 }
