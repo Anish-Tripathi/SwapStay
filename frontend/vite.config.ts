@@ -1,10 +1,14 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
-import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  server: {
+  base: "/", // Required for Vercel
+  build: {
+    outDir: "dist",
+    emptyOutDir: true
+  },
+  server: mode === "development" ? {
     host: "::",
     port: 8080,
     proxy: {
@@ -13,13 +17,9 @@ export default defineConfig(({ mode }) => ({
         changeOrigin: true,
       },
     },
-    // 👇 THIS FIXES ROUTE-BASED 404s!
     historyApiFallback: true,
-  },
-  plugins: [
-    react(),
-    mode === "development" && componentTagger(),
-  ].filter(Boolean),
+  } : undefined,
+  plugins: [react()], // Removed componentTagger
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
