@@ -9,15 +9,23 @@
         "installCommand": "cd frontend && npm install",
         "buildCommand": "cd frontend && npm run build"
       }
+    },
+    {
+      "src": "backend/server.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["backend/**"]
+      }
     }
   ],
   "routes": [
     {
+      "src": "/api/(.*)",
+      "dest": "backend/server.js"
+    },
+    {
       "src": "/(.*)",
-      "dest": "frontend/dist/$1",
-      "headers": {
-        "Cache-Control": "s-maxage=31536000, immutable"
-      }
+      "dest": "frontend/dist/$1"
     }
   ]
 }
