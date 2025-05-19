@@ -85,8 +85,15 @@ app.use((req, res, next) => {
 });
 
 // Set static folder for uploads
-app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
-app.use('/images', express.static(path.join(__dirname, 'public/images')));
+app.use('/uploads', express.static(path.join(__dirname, 'uploads'), {
+  maxAge: '1y',
+  immutable: true
+}));
+
+app.use('/images', express.static(path.join(__dirname, 'public/images'), {
+  maxAge: '1y',
+  immutable: true
+}));
 app.use(express.static(path.join(__dirname, 'public')));
 
 // Routes
@@ -109,6 +116,7 @@ const uploadsDir = path.join(__dirname, 'uploads', 'rooms');
 if (!fs.existsSync(uploadsDir)) {
   fs.mkdirSync(uploadsDir, { recursive: true });
 }
+
 
 app.get('/', (req, res) => {
   res.send('Auth API is running');

@@ -14,7 +14,11 @@
       "src": "backend/server.js",
       "use": "@vercel/node",
       "config": {
-        "includeFiles": ["backend/**"]
+        "includeFiles": [
+          "backend/**/*",
+          "backend/uploads/**",
+          "backend/public/**"
+        ]
       }
     }
   ],
@@ -24,11 +28,16 @@
       "dest": "/backend/server.js"
     },
     {
+      "src": "/uploads/(.*)",
+      "dest": "/backend/server.js"
+    },
+    {
+      "src": "/images/(.*)",
+      "dest": "/backend/server.js"
+    },
+    {
       "src": "/(.*)",
-      "dest": "/frontend/dist/$1",
-      "headers": {
-        "Cache-Control": "s-maxage=31536000, immutable"
-      }
+      "dest": "/frontend/dist/$1"
     }
   ]
 }
