@@ -290,7 +290,7 @@
 
 ```
 SwapStay/
-├── client/                     # Frontend React Application
+├── frontend/                     # Frontend React Application
 │   ├── src/
 │   │   ├── components/         # Reusable UI components
 │   │   ├── pages/             # Main application pages
@@ -300,7 +300,7 @@ SwapStay/
 │   │   └── hooks/             # Custom React hooks
 │   ├── public/                # Static assets and index.html
 │   └── package.json           # Frontend dependencies
-├── server/                    # Backend Express Application
+├── backend/                    # Backend Express Application
 │   ├── controllers/           # Request handlers and business logic
 │   ├── models/               # MongoDB schemas and models
 │   ├── routes/               # API route definitions
@@ -537,7 +537,7 @@ db.createCollection("complaints")
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our contributing guidelines and submit pull requests for any improvements.
+We welcome contributions from the community! Please read my contributing guidelines and submit pull requests for any improvements.
 
 ### **Development Setup**
 
@@ -546,12 +546,6 @@ We welcome contributions from the community! Please read our contributing guidel
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
