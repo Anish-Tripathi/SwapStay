@@ -12,7 +12,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Images
 
 ## 🔐 Authentication
 
