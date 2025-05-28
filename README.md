@@ -1,6 +1,11 @@
 # SwapStay - Streamlined Room Swapping & Campus Booking
 
+<p align="center">
+  <img src="screenshots/logo.png" alt="SwapStay Logo" width="150" />
+</p>
+
 **SwapStay** is a comprehensive web platform designed specifically for students in hostels and residential campuses, enabling seamless **room swapping**, **mess booking**, and **guest house reservations**. Our platform simplifies campus living with intelligent matching, real-time communication, secure transactions, and automated administrative workflows.
+
 
 ---
 
