@@ -120,7 +120,7 @@
 ---
 
 <details>
-  <summary><strong>💬 Communication</strong></summary>
+  <summary><strong>💬 Real time communication & notification</strong></summary>
 
   <table align="center">
     <tr>
