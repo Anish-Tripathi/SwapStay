@@ -16,134 +16,179 @@
 > 📽️ **Demo Video:** [Watch Here](#) _(Coming Soon)_
 
 ---
-
 ## 📸 Preview
+<details>
+  <summary><strong>📊 Platform Preview (click to expand)</strong></summary>
+
+> If any uploaded image appears scaled or unclear, please click on the image to view it in full resolution for better clarity.
+
+---
 
 <details>
   <summary><strong>🔐 Authentication</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/login.png" alt="Login" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/signup.png" alt="Signup" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/activate.png" alt="Activate Account" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/forgot-password.png" alt="Forgot Password" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/reset-password.png" alt="Reset Password" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/deactivate-account.png" alt="Deactivate Account" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Login, Sign Up, Activate, Reset Password, and Deactivate Account</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/login.png" alt="Login" width="400" height="250" /></td>
+    <td><img src="./screenshots/signup.png" alt="Signup" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/activate.png" alt="Activate" width="400" height="250" /></td>
+    <td><img src="./screenshots/forgot-password.png" alt="Forgot Password" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/reset-password.png" alt="Reset Password" width="400" height="250" /></td>
+    <td><img src="./screenshots/deactivate-account.png" alt="Deactivate Account" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Login, Sign Up, Activate, Reset, and Deactivate</em></p>
 </details>
+
+---
 
 <details>
   <summary><strong>🏠 Homepage & Intro</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/homepage.png" alt="Homepage" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/problem-solution.png" alt="Problem & Solution" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/features.png" alt="Features" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/about-us.png" alt="About Us" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/process.png" alt="Process Steps" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/benefits.png" alt="Benefits" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/homepage-dark.png" alt="Homepage Dark Mode" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/about-us-dark.png" alt="About Us Dark Mode" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Homepage, Problem-Solution, Features, Process, and Benefits (Light & Dark)</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/homepage.png" alt="Homepage" width="400" height="250" /></td>
+    <td><img src="./screenshots/problem-solution.png" alt="Problem & Solution" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/features.png" alt="Features" width="400" height="250" /></td>
+    <td><img src="./screenshots/about-us.png" alt="About Us" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/process.png" alt="Process Steps" width="400" height="250" /></td>
+    <td><img src="./screenshots/benefits.png" alt="Benefits" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/homepage-dark.png" alt="Homepage Dark" width="400" height="250" /></td>
+    <td><img src="./screenshots/about-us-dark.png" alt="About Us Dark" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Homepage, Problem-Solution, Features, and Benefits</em></p>
 </details>
+
+---
 
 <details>
   <summary><strong>🏘️ Room Listing</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/add-room.png" alt="Add Room" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/existing-room.png" alt="Existing Room" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Add new rooms and manage existing ones</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/add-room.png" alt="Add Room" width="400" height="250" /></td>
+    <td><img src="./screenshots/existing-room.png" alt="Existing Room" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Add and manage your own rooms</em></p>
 </details>
+
+---
 
 <details>
-  <summary><strong>🏘️ Browse & Request Rooms</strong></summary>
+  <summary><strong>🔄 Browse & Request</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/browse-room.png" alt="Browse Room" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/room-modal.png" alt="Room Modal" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/room-request.png" alt="Request Room" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/room-modal-request.png" alt="Requested Modal" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Explore rooms and send/track room swap requests</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/browse-room.png" alt="Browse Room" width="400" height="250" /></td>
+    <td><img src="./screenshots/room-modal.png" alt="Room Modal" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/room-request.png" alt="Room Request" width="400" height="250" /></td>
+    <td><img src="./screenshots/room-modal-request.png" alt="Request Modal" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Explore and request room swaps</em></p>
 </details>
+
+---
 
 <details>
   <summary><strong>💬 Communication</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/chat.png" alt="Chat" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/notification.png" alt="Notification" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Real-time chat and notifications</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/chat.png" alt="Chat" width="400" height="250" /></td>
+    <td><img src="./screenshots/notification.png" alt="Notification" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Real-time chat and notifications</em></p>
 </details>
+
+---
 
 <details>
-  <summary><strong>🏨 Guest House</strong></summary>
+  <summary><strong>🏨 Guest House Booking</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/guesthouse-list.png" alt="Guest House List" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/my-guest.png" alt="My Guest Bookings" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/guest-modal.png" alt="Guest House Modal" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/guest-confirmation.png" alt="Guest Booking Confirmation" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Guest house listings, booking flow, and confirmation</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/guesthouse-list.png" alt="Guesthouse List" width="400" height="250" /></td>
+    <td><img src="./screenshots/my-guest.png" alt="My Guest" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/guest-modal.png" alt="Guest Modal" width="400" height="250" /></td>
+    <td><img src="./screenshots/guest-confirmation.png" alt="Guest Confirmation" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Book and manage guest house reservations</em></p>
 </details>
+
+---
 
 <details>
   <summary><strong>🍽️ Mess Booking</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/mess-details.png" alt="Mess Details" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/mess-modal.png" alt="Mess Modal" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/mess-confirmation.png" alt="Mess Confirmation" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/mess-feedback.png" alt="Mess Feedback" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>View mess options, book meals, and submit feedback</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/mess-details.png" alt="Mess Details" width="400" height="250" /></td>
+    <td><img src="./screenshots/mess-modal.png" alt="Mess Modal" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/mess-confirmation.png" alt="Mess Confirmation" width="400" height="250" /></td>
+    <td><img src="./screenshots/mess-feedback.png" alt="Mess Feedback" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Book mess meals and submit feedback</em></p>
 </details>
+
+---
 
 <details>
   <summary><strong>⚙️ Other Pages</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/feedback.png" alt="Feedback" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/complaint.png" alt="Complaint" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/complaint-history.png" alt="Complaint History" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/settings.png" alt="Settings" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/faq.png" alt="FAQ" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/terms.png" alt="Terms & Conditions" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Feedback, issue tracking, preferences, and policies</em></p>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/feedback.png" alt="Feedback" width="400" height="250" /></td>
+    <td><img src="./screenshots/complaint.png" alt="Complaint" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/complaint-history.png" alt="Complaint History" width="400" height="250" /></td>
+    <td><img src="./screenshots/settings.png" alt="Settings" width="400" height="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/faq.png" alt="FAQ" width="400" height="250" /></td>
+    <td><img src="./screenshots/terms.png" alt="Terms" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Feedback, issue tracking, preferences, and policies</em></p>
 </details>
+
+---
 
 <details>
   <summary><strong>🦶 Footer</strong></summary>
 
-<div align="center">
-  <img src="./screenshots/footer-light.png" alt="Footer Light Mode" width="400" height="250" style="margin: 10px;" />
-  <img src="./screenshots/footer-dark.png" alt="Footer Dark Mode" width="400" height="250" style="margin: 10px;" />
-</div>
-
-<p><em>Footer section (Light and Dark mode)</em></p>
-
----
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/footer-light.png" alt="Footer Light" width="400" height="250" /></td>
+    <td><img src="./screenshots/footer-dark.png" alt="Footer Dark" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Footer section (Light & Dark mode)</em></p>
 </details>
 
-
-
-
-
+</details>
 
 
 ## ✨ Key Features
