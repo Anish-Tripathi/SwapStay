@@ -150,7 +150,7 @@
       <td><img src="./screenshots/payment-reciept.png" alt="Payment Receipt" width="400" height="250" /></td>
     </tr>
   </table>
-  <p align="center"><em>Book and manage guest house reservations</em></p>
+  <p align="center"><em>Book and manage guest house reservations with secured payment </em></p>
 </details>
 
 ---
