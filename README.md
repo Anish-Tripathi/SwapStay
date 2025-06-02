@@ -19,7 +19,7 @@
 
 ## 📸 Preview
 <details>
-  <summary><strong>📊 Dashboard Preview (click to expand)</strong></summary>
+  <summary><strong>📊 Platform Preview (click to expand)</strong></summary>
 
 ---
 
