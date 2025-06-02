@@ -211,6 +211,7 @@
   <p align="center"><em>Footer section (Light & Dark mode)</em></p>
 </details>
 
+---
 
 ## ✨ Key Features
 
