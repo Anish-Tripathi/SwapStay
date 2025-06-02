@@ -18,15 +18,9 @@
 ---
 
 ## 📸 Preview
+
 <details>
-  <summary><strong>📊 Platform Preview (click to expand)</strong></summary>
-
----
-
-> If any uploaded image appears scaled or unclear, please click on the image to view it in full resolution for better clarity.
-
----
-## 🔐 Authentication
+  <summary><strong>🔐 Authentication</strong></summary>
 
 <div align="center">
   <table>
@@ -47,9 +41,10 @@
   <p><em>Login, Sign Up, Activate, Reset Password, and Deactivate Account</em></p>
 </div>
 
----
+</details>
 
-### 🏠 Homepage & Intro
+<details>
+  <summary><strong>🏠 Homepage & Intro</strong></summary>
 
 <div align="center">
   <table>
@@ -73,9 +68,10 @@
   <p><em>Homepage, Problem-Solution, Features, Process, and Benefits (Light & Dark)</em></p>
 </div>
 
----
+</details>
 
-### 🏘️ Browse & Request Rooms
+<details>
+  <summary><strong>🏘️ Browse & Request Rooms</strong></summary>
 
 <div align="center">
   <table>
@@ -91,9 +87,10 @@
   <p><em>Explore rooms and send/track room swap requests</em></p>
 </div>
 
----
+</details>
 
-### 🏨 Guest House
+<details>
+  <summary><strong>🏨 Guest House</strong></summary>
 
 <div align="center">
   <table>
@@ -109,9 +106,10 @@
   <p><em>Guest house listings, booking flow, and confirmation</em></p>
 </div>
 
----
+</details>
 
-### 🍽️ Mess Booking
+<details>
+  <summary><strong>🍽️ Mess Booking</strong></summary>
 
 <div align="center">
   <table>
@@ -127,9 +125,10 @@
   <p><em>View mess options, book meals, and submit feedback</em></p>
 </div>
 
----
+</details>
 
-### ⚙️ Other Pages
+<details>
+  <summary><strong>⚙️ Other Pages</strong></summary>
 
 <div align="center">
   <table>
@@ -149,9 +148,10 @@
   <p><em>Feedback, issue tracking, preferences, and policies</em></p>
 </div>
 
----
+</details>
 
-### 🦶 Footer
+<details>
+  <summary><strong>🦶 Footer</strong></summary>
 
 <div align="center">
   <table>
@@ -163,11 +163,8 @@
   <p><em>Footer section (Light and Dark mode)</em></p>
 </div>
 
----
 </details>
 
-
----
 
 ## ✨ Key Features
 
