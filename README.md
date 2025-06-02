@@ -17,15 +17,11 @@
 ---
 
 ## 📸 Preview
-
-<details>
-  <summary><strong>📊 Platform Preview (click to expand)</strong></summary>
-
-> If any uploaded image appears scaled or unclear, please click on the image to view it in full resolution for better clarity.
-
 ---
 
 <details>
+
+  > If any uploaded image appears scaled or unclear, please click on the image to view it in full resolution for better clarity.
   <summary><strong>🔐 Authentication</strong></summary>
 
 <table align="center">
