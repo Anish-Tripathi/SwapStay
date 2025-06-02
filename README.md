@@ -664,6 +664,6 @@ We welcome contributions from the community! Please read my contributing guideli
 
 ---
 
-**Made with ❤️ for students, by students**
+**Made with ❤️ for students, by student**
 
 _SwapStay - Simplified Living: Making campus life easier, one swap at a time._
