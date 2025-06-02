@@ -84,6 +84,14 @@
 </table>
 <p align="center"><em>Add and manage your own rooms</em></p>
 </details>
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/add-room.png" alt="Add Room" width="400" height="250" /></td>
+    <td><img src="./screenshots/existing-room.png" alt="Existing Room" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Add and manage your own rooms</em></p>
+</details>
 
 ---
 
@@ -123,7 +131,17 @@
 
 <details>
   <summary><strong>💬 Communication</strong></summary>
+<details>
+  <summary><strong>💬 Communication</strong></summary>
 
+<table align="center">
+  <tr>
+    <td><img src="./screenshots/chat.png" alt="Chat" width="400" height="250" /></td>
+    <td><img src="./screenshots/notification.png" alt="Notification" width="400" height="250" /></td>
+  </tr>
+</table>
+<p align="center"><em>Real-time chat and notifications</em></p>
+</details>
 <table align="center">
   <tr>
     <td><img src="./screenshots/chat.png" alt="Chat" width="400" height="250" /></td>
@@ -215,7 +233,7 @@
 
 </details>
 
----
+</details>
 
 ## ✨ Key Features
 
