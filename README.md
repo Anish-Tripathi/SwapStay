@@ -20,7 +20,11 @@
 ## 📸 Preview
 
 <details>
-  <summary><strong>🔐 Authentication</strong></summary>
+  <summary><strong>📊 Platform Preview (click to expand)</strong></summary>
+
+---
+
+### 🔐 Authentication
 
 <div align="center">
   <table>
@@ -35,16 +39,14 @@
     <tr>
       <td><img src="./screenshots/reset-password.png" alt="Reset Password" width="400" height="250" style="margin: 10px;" /></td>
       <td><img src="./screenshots/deactivate-account.png" alt="Deactivate Account" width="400" height="250" style="margin: 10px;" /></td>
-      <td></td>
     </tr>
   </table>
   <p><em>Login, Sign Up, Activate, Reset Password, and Deactivate Account</em></p>
 </div>
 
-</details>
+---
 
-<details>
-  <summary><strong>🏠 Homepage & Intro</strong></summary>
+### 🏠 Homepage & Intro
 
 <div align="center">
   <table>
@@ -68,10 +70,23 @@
   <p><em>Homepage, Problem-Solution, Features, Process, and Benefits (Light & Dark)</em></p>
 </div>
 
-</details>
+---
 
-<details>
-  <summary><strong>🏘️ Browse & Request Rooms</strong></summary>
+### 🏘️ Room Listing
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="./screenshots/add-room.png" alt="Add Room" width="400" height="250" style="margin: 10px;" /></td>
+      <td><img src="./screenshots/existing-room.png" alt="Existing Room" width="400" height="250" style="margin: 10px;" /></td>
+    </tr>
+  </table>
+  <p><em>Add new rooms and manage existing ones</em></p>
+</div>
+
+---
+
+### 🏘️ Browse & Request Rooms
 
 <div align="center">
   <table>
@@ -87,10 +102,23 @@
   <p><em>Explore rooms and send/track room swap requests</em></p>
 </div>
 
-</details>
+---
 
-<details>
-  <summary><strong>🏨 Guest House</strong></summary>
+### 💬 Communication
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="./screenshots/chat.png" alt="Chat" width="400" height="250" style="margin: 10px;" /></td>
+      <td><img src="./screenshots/notification.png" alt="Notification" width="400" height="250" style="margin: 10px;" /></td>
+    </tr>
+  </table>
+  <p><em>Real-time chat and notifications</em></p>
+</div>
+
+---
+
+### 🏨 Guest House
 
 <div align="center">
   <table>
@@ -106,10 +134,9 @@
   <p><em>Guest house listings, booking flow, and confirmation</em></p>
 </div>
 
-</details>
+---
 
-<details>
-  <summary><strong>🍽️ Mess Booking</strong></summary>
+### 🍽️ Mess Booking
 
 <div align="center">
   <table>
@@ -125,10 +152,9 @@
   <p><em>View mess options, book meals, and submit feedback</em></p>
 </div>
 
-</details>
+---
 
-<details>
-  <summary><strong>⚙️ Other Pages</strong></summary>
+### ⚙️ Other Pages
 
 <div align="center">
   <table>
@@ -148,10 +174,9 @@
   <p><em>Feedback, issue tracking, preferences, and policies</em></p>
 </div>
 
-</details>
+---
 
-<details>
-  <summary><strong>🦶 Footer</strong></summary>
+### 🦶 Footer
 
 <div align="center">
   <table>
@@ -163,7 +188,11 @@
   <p><em>Footer section (Light and Dark mode)</em></p>
 </div>
 
+---
 </details>
+
+
+
 
 
 ## ✨ Key Features
