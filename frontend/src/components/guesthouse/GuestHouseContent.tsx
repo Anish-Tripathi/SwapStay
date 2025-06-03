@@ -22,7 +22,7 @@ const GuestHouseContent = () => {
     <div className="py-6 bg-purple-200 rounded-lg dark:bg-gradient-to-r dark:from-gray-900 dark:to-purple-900 transition-colors duration-200">
       <div className="flex justify-between items-center mb-6 px-6 pt-4">
         <h2 className="text-2xl font-bold text-purple-900 dark:text-white">
-          {showBookingHistory ? "My Booking History" : "Book a Guest House"}
+          {showBookingHistory ? "My Bookings" : "Book a Guest House"}
         </h2>
 
         {userId && (
