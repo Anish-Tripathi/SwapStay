@@ -16,8 +16,9 @@
 
 ---
 
-## 📸 Preview  
->  If any uploaded image appears scaled or unclear, please click on the image to view it in full resolution for better clarity.
+## 📸 Preview
+
+> If any uploaded image appears scaled or unclear, please click on the image to view it in full resolution for better clarity.
 
 ---
 
@@ -162,6 +163,10 @@
     <tr>
       <td><img src="./screenshots/mess-details.png" alt="Mess Details" width="400" height="250" /></td>
       <td><img src="./screenshots/mess-modal.png" alt="Mess Modal" width="400" height="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="./screenshots/mess-menu.png" alt="Mess Details" width="400" height="250" /></td>
+      <td><img src="./screenshots/mess-review.png" alt="Mess Modal" width="400" height="250" /></td>
     </tr>
     <tr>
       <td><img src="./screenshots/mess-swap-form.png" alt="Mess Swap Form" width="400" height="250" /></td>
