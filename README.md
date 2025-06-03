@@ -190,6 +190,10 @@
       <td><img src="./screenshots/complaint-history.png" alt="Complaint History" width="400" height="250" /></td>
       <td><img src="./screenshots/complaint-status.png" alt="Complaint Status" width="400" height="250" /></td>
     </tr>
+     <tr>
+      <td><img src="./screenshots/complaint-evidence.png" alt="Complaint History" width="400" height="250" /></td>
+      <td><img src="./screenshots/complaint-update.png" alt="Complaint Status" width="400" height="250" /></td>
+    </tr>
     <tr>
       <td><img src="./screenshots/profile-settings.png" alt="Profile Settings" width="400" height="250" /></td>
       <td><img src="./screenshots/room-settings.png" alt="Room Settings" width="400" height="250" /></td>
