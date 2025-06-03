@@ -79,7 +79,7 @@
       <td><img src="./screenshots/existing-room.png" alt="Existing Room" width="400" height="250" /></td>
     </tr>
   </table>
-  <p align="center"><em>Add and manage your own rooms</em></p>
+  <p align="center"><em>Add and manage your own rooms for swapping</em></p>
 </details>
 
 ---
@@ -173,7 +173,7 @@
       <td><img src="./screenshots/mess-reciept.png" alt="Mess Receipt" width="400" height="250" /></td>
     </tr>
   </table>
-  <p align="center"><em>Book mess meals and submit feedback</em></p>
+  <p align="center"><em>Mess Registration and Transparent Change Request System</em></p>
 </details>
 
 ---
