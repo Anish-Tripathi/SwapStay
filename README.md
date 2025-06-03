@@ -198,6 +198,10 @@
       <td><img src="./screenshots/profile-settings.png" alt="Profile Settings" width="400" height="250" /></td>
       <td><img src="./screenshots/room-settings.png" alt="Room Settings" width="400" height="250" /></td>
     </tr>
+     <tr>
+      <td><img src="./screenshots/theme-settings.png" alt="Profile Settings" width="400" height="250" /></td>
+      <td><img src="./screenshots/notification-settings.png" alt="Room Settings" width="400" height="250" /></td>
+    </tr>
     <tr>
       <td><img src="./screenshots/faq.png" alt="FAQ" width="400" height="250" /></td>
       <td><img src="./screenshots/terms.png" alt="Terms" width="400" height="250" /></td>
