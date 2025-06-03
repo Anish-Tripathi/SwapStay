@@ -120,7 +120,7 @@
 ---
 
 <details>
-  <summary><strong>💬 Communication</strong></summary>
+  <summary><strong>💬 Real time communication & notification</strong></summary>
 
   <table align="center">
     <tr>
@@ -150,7 +150,7 @@
       <td><img src="./screenshots/payment-reciept.png" alt="Payment Receipt" width="400" height="250" /></td>
     </tr>
   </table>
-  <p align="center"><em>Book and manage guest house reservations</em></p>
+  <p align="center"><em>Book and manage guest house reservations with secured payment </em></p>
 </details>
 
 ---
@@ -664,6 +664,6 @@ We welcome contributions from the community! Please read my contributing guideli
 
 ---
 
-**Made with ❤️ for students, by students**
+**Made with ❤️ for students, by student**
 
 _SwapStay - Simplified Living: Making campus life easier, one swap at a time._
