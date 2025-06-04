@@ -210,8 +210,12 @@
       <td><img src="./screenshots/faq.png" alt="FAQ" width="400" height="250" /></td>
       <td><img src="./screenshots/terms.png" alt="Terms" width="400" height="250" /></td>
     </tr>
+     <tr>
+      <td><img src="./screenshots/not-found-light.png" alt="Not Found" width="400" height="250" /></td>
+      <td><img src="./screenshots/not-found-dark.png" alt="Not Found" width="400" height="250" /></td>
+    </tr>
   </table>
-  <p align="center"><em>Feedback, Settings, Report Complaint & Track Status, FAQ, Terms</em></p>
+  <p align="center"><em>Feedback, Settings, Report Complaint & Track Status, FAQ, Terms, Not Found Pages</em></p>
 </details>
 
 ---
