@@ -90,7 +90,11 @@
   <table align="center">
     <tr>
       <td><img src="./screenshots/browse-room.png" alt="Browse Room" width="400" height="250" /></td>
-      <td><img src="./screenshots/room-modal.png" alt="Room Modal" width="400" height="250" /></td>
+      <td><img src="./screenshots/room-modal-details.png" alt="Room Modal" width="400" height="250" /></td>
+    </tr>
+      <tr>
+      <td><img src="./screenshots/room-modal-amentities.png" alt="Browse Room" width="400" height="250" /></td>
+      <td><img src="./screenshots/room-modal-occupants.png" alt="Room Modal" width="400" height="250" /></td>
     </tr>
     <tr>
       <td><img src="./screenshots/chat-occupant.png" alt="Chat Occupant" width="400" height="250" /></td>
