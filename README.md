@@ -8,46 +8,21 @@
 
 ---
 
-📋 Table of Contents
+## 📋 Table of Contents
 
-🌐 Live Demo
-📸 Preview
-
-🔐 Authentication
-🏠 Home & About Us
-🛏️ Room Listing
-🔍 Browse Room
-🔁 Request Room
-💬 Real time communication & notification
-🏨 Guest House Booking
-🍽️ Mess Change Booking
-📄 Other Pages
-🔚 Footer
-
-
-✨ Key Features
-
-🔐 Advanced Authentication & Security
-🏠 Intelligent Room Swapping System
-💬 Real-time Communication System
-📊 Comprehensive Request Dashboard
-🍽️ Complete Mess Management System
-🏨 Full-featured Guest House Booking
-🔔 Smart Notification System
-⚙️ Personalized User Experience
-🛠️ Additional Platform Features
-
-
-🛠️ Technology Stack
-📁 Project Structure
-🚀 Installation & Setup
-📱 User Journey & Workflows
-🎯 Target Audience
-🔒 Security Features
-📊 Performance Metrics
-🚀 Future Enhancements
-🤝 Contributing
-🏆 Acknowledgments
+- [🌐 Live Demo](#-live-demo)
+- [📸 Preview](#-preview)
+- [✨ Key Features](#-key-features)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Installation & Setup](#-installation--setup)
+- [📱 User Journey & Workflows](#-user-journey--workflows)
+- [🎯 Target Audience](#-target-audience)
+- [🔒 Security Features](#-security-features)
+- [📊 Performance Metrics](#-performance-metrics)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [🤝 Contributing](#-contributing)
+- [🏆 Acknowledgments](#-acknowledgments)
 
 ---
 
